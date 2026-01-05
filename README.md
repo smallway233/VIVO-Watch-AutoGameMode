@@ -1,10 +1,10 @@
-# Smallway GameSync (GameWatch)
+# VIVO-Watch-AutoGameMode (GameWatch)
 
 **打破设备界限，让手机与电脑无缝联动，打造沉浸式游戏伴侣。**
 
-> 原项目名：VIVO-Watch-AutoGameMode
 
-Smallway GameSync 是一个开源的跨设备游戏状态同步工具。它能够在 PC 端自动检测游戏运行状态，并实时同步到 Android 手机（及连接的手表），自动触发“电竞模式”界面，展示游戏名称与游玩时长。
+
+VIVO-Watch-AutoGameMode 是一个开源的跨设备游戏状态同步工具。它能够在 PC 端自动检测游戏运行状态，并实时同步到 Android 手机（及连接的手表），自动触发“电竞模式”界面，展示游戏名称与游玩时长。
 
 ## ✨ 核心功能
 
@@ -23,7 +23,7 @@ Smallway GameSync 是一个开源的跨设备游戏状态同步工具。它能�
 
 - `pc_client/`: **PC 客户端** (Python) - 负责进程监控与信号发送。
 - `app/`: **Android 客户端** (Kotlin/Jetpack Compose) - 负责接收信号与界面展示。
-- `pc_client_go/`: **PC 客户端 (Go 版)** - 实验性的高性能版本。
+- `pc_client_go/`: **PC 客户端 (Go 版)** - 实验性的高性能版本。**（暂未开源）**
 
 ## 🚀 快速开始
 
