@@ -1,0 +1,4 @@
+zeroconf
+psutil
+pystray
+Pillow
