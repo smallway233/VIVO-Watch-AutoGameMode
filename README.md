@@ -1,6 +1,7 @@
-# VIVO-Watch-AutoGameMode (GameWatch)
+
 ## 赛博乞讨
-![PayPal](https://pic.smallway.top/blog/202279-pay.png)
+<img width="1000" height="511" alt="image" src="https://github.com/user-attachments/assets/255a5c54-aec0-4f93-906c-7a9056e328be" />
+
 
 **打破设备界限，让手机与电脑无缝联动，打造沉浸式游戏伴侣。**
 
