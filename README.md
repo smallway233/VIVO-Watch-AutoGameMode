@@ -1,4 +1,6 @@
 # VIVO-Watch-AutoGameMode (GameWatch)
+## 赛博乞讨
+![PayPal](https://pic.smallway.top/blog/202279-pay.png)
 
 **打破设备界限，让手机与电脑无缝联动，打造沉浸式游戏伴侣。**
 
@@ -69,6 +71,7 @@ VIVO-Watch-AutoGameMode 是一个开源的跨设备游戏状态同步工具。�
 ## 🤝 贡献与反馈
 
 欢迎提交 Issue 反馈 Bug 或建议新功能！如果你对代码有改进意见，请随时提交 Pull Request。
+
 
 ## 📄 许可证
 
